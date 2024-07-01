@@ -1,6 +1,6 @@
 # CodePen
 
 CodePen Link:
-https://codepen.io/sanketbodke
+[https://codepen.io/Ayush741-1]
 
-![alt text](https://i.postimg.cc/rwkjh5yY/Sanket-Bodake-sanketbodke.png)
+![alt text](https://i.postimg.cc/bvHr5yP8/Ayush-Sharma.png)
